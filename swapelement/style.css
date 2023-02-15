@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: rgb(231, 191, 11);
+    display: flex;
+    justify-content: center;
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    
+}
+li{
+    margin-top: 10px;
+}
+
+#b1{
+    border: 3px solid black;
+    width: 20vw;
+    height: auto;
+    text-align: center;
+    background-color: rgb(231, 176, 248);
+    margin-top:20%;
+    
+    
+}
+#b2{
+    margin-left: 10px;
+    background-color: rgb(231, 176, 248);
+    border: 3px solid black;
+    width: 20vw;
+    height: auto;
+    text-align: center;
+    margin-top:20%;
+}
